@@ -1,6 +1,6 @@
 # Grovechat Application
 
-![Chat Application](https://ibb.co/vjnD0bg)
+![alt text](https://ibb.co/vjnD0bg)
 
 ## Introduction
 
