@@ -1,6 +1,12 @@
 # Grovechat Application
 
-![Chat Application](https://freeimage.host/i/ulPwBe)
+![Chat Application]
+### Screenshot 
+<img align="left" src="https://github.com/SASANK-G/Grove_Chat_Reactjs/blob/master/public/pic.JPG" alt="React App" width="100%">
+
+## Available Deploy on Vercel
+
+The Project can be viewd at [Vercel](https://grove-chat-reactjs.vercel.app/)
 
 ## Introduction
 
